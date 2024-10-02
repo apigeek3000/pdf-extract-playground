@@ -1,4 +1,5 @@
 # pdf-extract-playground
+Public repo to test pdf image extraction
 
 ## Pre-reqs
 Have Python 3.xx installed on your computer
